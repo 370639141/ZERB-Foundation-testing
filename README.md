@@ -1,10 +1,11 @@
 # ZERB-Foundation-testing
 
-Installing
-We'll use the Foundation CLI to set up a new project. If you already have the Foundation CLI installed from Foundation for Sites, you can skip this first command.
+## Install Foundation
+1. Make sure you have Node.js installed.
+2. Open Terminal and type `<npm install --global foundation-cli>`
 
-Copy
-npm install --global foundation-cli
+
+
 
 If you run into any permission errors (EACCESS) on OS X or Linux, you can try prefixing the command with sudo.
 

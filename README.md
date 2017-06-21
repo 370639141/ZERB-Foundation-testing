@@ -5,14 +5,17 @@ We'll use the Foundation CLI to set up a new project. If you already have the Fo
 
 Copy
 npm install --global foundation-cli
+
 If you run into any permission errors (EACCESS) on OS X or Linux, you can try prefixing the command with sudo.
 
 Copy
 sudo npm install --global foundation-cli
+
 Once the CLI is installed on your machine, it’s super easy to fire up a blank Foundation for Emails project. Move into the folder you store your projects in, and then run this command:
 
 Copy
 foundation new --framework emails
+
 The CLI will ask you for a project name, which is used as the name of the folder to install in. After that, the project template will be downloaded, and the various dependencies installed. The entire process takes over a minute.
 
 Running the Server

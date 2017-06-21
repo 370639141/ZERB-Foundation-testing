@@ -24,7 +24,8 @@ it will ask you for a project name, which is used as the name of the folder to i
   *  `<center>` : Used in html file to center image, button or any elements (instead of align="center" that we usually used in html).
   *  `<spacer>` : Used in html file to create white space. Set the size to the height of the space you need. I found that it is also very useful for creating those lines within text. Simply change the width of the spacer and add a border bottom to it would create a nice line. And also put `<center>` tag around it.
   *  `<container>`,`<row>`,`<columns>`: Essencial feature of Inky. Basically just put `<row>` under `<container>` and `<columns>` under `<row>` instead of using a lot of table,tbody,th,tr,td,etc. 
-```css 
+  *  original:
+```
 <table align="center" class="container">
   <tbody>
     <tr>
@@ -47,4 +48,12 @@ it will ask you for a project name, which is used as the name of the folder to i
     </tr>
   </tbody>
 </table>
+  *  with Inky: 
+```
+```
+<container>
+  <row>
+    <columns>Put content in me!</columns>
+  </row>
+</container>
 ```

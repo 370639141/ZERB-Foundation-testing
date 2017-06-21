@@ -16,4 +16,5 @@ it will ask you for a project name, which is used as the name of the folder to i
 * partials/: Reusable chunks of HTML that can be injected into pages.
 2. The various HTML files, Sass files, and images inside of src will be automatically compiled to a new folder called dist/ (as in "distribution"), which contains the final HTML and CSS for your emails.
 ### HTML file
+1. Under src/layouts/, there is a file called default.html. It is the bolierplate html that wraps all of the emails.
 

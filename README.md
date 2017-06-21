@@ -48,8 +48,8 @@ it will ask you for a project name, which is used as the name of the folder to i
     </tr>
   </tbody>
 </table>
-  *  with Inky: 
 ```
+  *  with Inky: 
 ```
 <container>
   <row>

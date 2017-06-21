@@ -10,10 +10,9 @@ it will ask you for a project name, which is used as the name of the folder to i
 6. You'll do all of your work in the src folder of your project. The various HTML files, Sass files, and images inside of src are compiled to a new folder called dist/ (as in "distribution"), which contains the final HTML and CSS for your emails.
 
 ## How to Use Foundation
-1. Working in src folder only. 
-2. Breakdown of the files in the src folder:
-  * assets/: Sass and image files.
-  * layouts/: Boilerplate HTML that wraps all of your emails.
-  * pages/: HTML files for emails.
-  * partials/: Reusable chunks of HTML that can be injected into pages.
+1. Working in src folder only. Here is a breakdown of the files in the src folder:
+* assets/: Sass and image files.
+* layouts/: Boilerplate HTML that wraps all of your emails.
+* pages/: HTML files for emails.
+* partials/: Reusable chunks of HTML that can be injected into pages.
 

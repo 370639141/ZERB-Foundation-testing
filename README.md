@@ -20,3 +20,5 @@ it will ask you for a project name, which is used as the name of the folder to i
 ![Image](https://raw.githubusercontent.com/370639141/ZERB-Foundation-testing/master/assets/image/Screen%20Shot%202017-06-21%20at%2010.09.54%20AM.png)
 2. Create a html file for email's body part in folder src/pages/.
 3. Inky :sparkles:
+*  I did not use all of element in Inky, because not all of them are good to use. Here is the list of elements that I used:
+  *  <center>

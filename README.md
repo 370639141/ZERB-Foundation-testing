@@ -18,3 +18,5 @@ it will ask you for a project name, which is used as the name of the folder to i
 ### HTML file
 1. Under src/layouts/, there is a file called default.html. It is the bolierplate html that wraps all of the emails.
 ![Image](https://raw.githubusercontent.com/370639141/ZERB-Foundation-testing/master/assets/image/Screen%20Shot%202017-06-21%20at%2010.09.54%20AM.png)
+2. Create a html file for email's body part in folder src/pages/.
+3. Inky :sparkles:

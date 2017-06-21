@@ -57,3 +57,4 @@ it will ask you for a project name, which is used as the name of the folder to i
   </row>
 </container>
 ```
+4. Partials. You can create partials under the folder src/partials, and insert them into the body part of the html. The CSS styles could be included in partials. the partial could be applied to all the 

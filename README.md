@@ -1,7 +1,7 @@
 # ZERB-Foundation-testing
 
 ## Install Foundation
-1. Make sure you have Node.js installed.
+1. Make sure you have Node.js(https://nodejs.org/en/） installed.
 2. Open Terminal and run `npm install --global foundation-cli`
 3. If you run into any permission errors, try `sudo npm install --global foundation-cli`
 4. Once installed successfully, go to the folder you want to create the project, and run `foundation new --framework emails`.
